@@ -1,4 +1,4 @@
-(defproject chiara "0.2.0-SNAPSHOT"
+(defproject chiara "0.2.0"
   :description "Better S-Expressions"
   :url "https://github.com/one-more-minute/chiara/"
   :license {:name "Eclipse Public License"
